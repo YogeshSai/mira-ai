@@ -3,7 +3,7 @@
 A single-page mutual fund analyser for Indian Direct-plan Growth funds: returns (1M to 10Y and since inception), risk measures, category rank, SIP and lump-sum growth, and a Buy / Hold / Skip verdict.
 
 ## Just use it
-Open `index.html` in any modern browser (Chrome, Edge, Safari, Firefox). It is self-contained: the NAV data is embedded, so it works offline. NAV data is as of the date shown by the app's data snapshot (17 Nov 2026 in this package).
+Open `index.html` in any modern browser (Chrome, Edge, Safari, Firefox). It is self-contained: the NAV data is embedded, so it works offline.
 
 ## Refresh the data
 Source: https://github.com/rajadilipkolli/historical-mf-nav-data (daily release `funds.db.zst`).
